@@ -1,0 +1,3 @@
+# Our target server
+[lemp]
+[SERVER NAME] ansible_host=[IP] ansible_port=[PORT] ansible_user=[username] ansible_password=[password]
